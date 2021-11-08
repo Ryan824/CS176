@@ -11,7 +11,7 @@ public class CheckingAccount extends BankAccount
 Add an instance variable below that keeps track of the number of withdrawals each month
 	 */   
 
-	private int withdrawNumb;
+	private int withdrawNumb = 0;
 
 	/**
       Constructs a checking account with a zero balance. Set withdrawals to 0 as well
