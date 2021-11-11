@@ -34,6 +34,7 @@ public class MeasurableTester
       maxData = Data.max(bank);
       System.out.println("Maximum balance: " + maxData);
       System.out.println("Expected: 513120");
+      System.out.println("");
       
       //Quizes
       System.out.println("Quiz data");
